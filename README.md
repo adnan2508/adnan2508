@@ -8,13 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Redux**
-
-- 💬 Ask me about **react, node.js**
-
-- 📫 How to reach me **adnandiu2800@gmail.com**
-
-- ⚡ Fun fact **I like travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
