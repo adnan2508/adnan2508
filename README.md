@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm Adnan Shiragee</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h3 align="center">Full Stack AI Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan2508&label=Profile%20views&color=0e75b6&style=flat" alt="adnan2508" /> </p>
